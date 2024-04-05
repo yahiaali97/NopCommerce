@@ -1,0 +1,1 @@
+{"uuid":"620b1917-f686-44d8-8f48-2fa37720b86d","name":"tests.T05_SwitchCurrencies","children":["552b34d1-b632-4547-91da-7305918bacae"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1712097734954,"stop":1712097741930}],"afters":[],"start":1712097714916,"stop":1712097827677}

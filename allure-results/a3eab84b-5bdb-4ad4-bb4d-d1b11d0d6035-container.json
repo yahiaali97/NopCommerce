@@ -1,0 +1,1 @@
+{"uuid":"a3eab84b-5bdb-4ad4-bb4d-d1b11d0d6035","name":"tests.T04_ProductHoverMenu","children":["b1e26cb7-d126-4e6c-890b-36722032901d"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1712097730847,"stop":1712097734048}],"afters":[],"start":1712097714916,"stop":1712097827677}

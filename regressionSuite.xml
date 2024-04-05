@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+    <test name="Regression Test" preserve-order="true">
+        <classes>
+            <class name="tests.T01_Registration"/>
+            <class name="tests.T02_Login"/>
+            <class name="tests.T03_ProductSearch"/>
+            <class name="tests.T04_ProductHoverMenu"/>
+            <class name="tests.T05_SwitchCurrencies"/>
+            <class name="tests.T06_ContactUs"/>
+            <class name="tests.T07_ChangePassword"/>
+            <class name="tests.T08_CheckoutProduct"/>
+            <class name="tests.T09_AddToWishlist"/>
+            <class name="tests.T10_AddToCart"/>
+            <class name="tests.T11_AddProductReview"/>
+            <class name="tests.T12_CompareProducts"/>
+            <class name="tests.T13_EmailFriend"/>
+        </classes>
+    </test>
+</suite>
